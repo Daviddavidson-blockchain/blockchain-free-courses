@@ -51,6 +51,5 @@ It offers beginner-friendly blockchain courses covering fundamentals, real-world
 ---
 
 ## 📌 Conclusion
-Starting with free courses is the best way to begin your blockchain journey. Continue learning and explore advanced certifications as you grow.
 
 Starting with free courses is the best way to begin your blockchain journey. Continue learning and explore advanced certifications as you grow.
